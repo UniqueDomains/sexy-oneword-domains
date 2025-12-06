@@ -21,8 +21,8 @@ If you want to search & filters the complete database of [.SEXY one word domains
 
 | Domain          | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
 | --------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| aaa.sexy        | available | 70       | 38%    | 3      |           |         |         |
-| aaron.sexy      | available | 88       | 32%    | 5      |           |         |         |
+| aaa.sexy        | premium   | 70       | 38%    | 3      |           |         |         |
+| aaron.sexy      | premium   | 88       | 32%    | 5      |           |         |         |
 | abactinal.sexy  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.sexy      | premium   | 43       | 2%     | 5      |           |         |         |
 | abandoned.sexy  | available | 58       | 7%     | 9      |           |         |         |
@@ -32,7 +32,7 @@ If you want to search & filters the complete database of [.SEXY one word domains
 | abatic.sexy     | available | 54       | 2%     | 6      |           |         |         |
 | abaxial.sexy    | available | 54       | 2%     | 7      |           |         |         |
 | abbatial.sexy   | available | 50       | 1%     | 8      |           |         |         |
-| abc.sexy        | available | 102      | 41%    | 3      |           |         |         |
+| abc.sexy        | premium   | 102      | 41%    | 3      |           |         |         |
 | abdicable.sexy  | available | 50       | 1%     | 9      |           |         |         |
 | abdominal.sexy  | available | 82       | 5%     | 9      |           |         |         |
 | abdominous.sexy | available | 56       | 1%     | 10     |           |         |         |
