@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .sexy one-word domains from
 
 **Public extract:** 9,736 rows · **Live catalog:** 5,621,997 domains
 
-**Last updated:** 2026-04-09  
+**Last updated:** 2026-04-10  
 **Canonical page:** `https://unique.domains/domains/tld/sexy`  
 **Best for:** founders, investors, studios
 
@@ -24,24 +24,18 @@ Daily-updated public extract of available and resale .sexy one-word domains from
 
 <p align="center">
   <a href="https://unique.domains/domains/tld/sexy?utm_source=github&utm_medium=referral&utm_campaign=repo_sexy_oneword_domains&utm_content=top_open_search"><b>🗂️ Open live database</b></a> ·
-  <a href="https://unique.domains/domains/tld/sexy?github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_sexy_oneword_domains&utm_content=top_create_radar"><b>🔔 Create Radar</b></a> ·
-  <a href="https://unique.domains/domains/tld/sexy?github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_sexy_oneword_domains&utm_content=top_start_project"><b>🚀 Start a Project</b></a> ·
   <b>⬇️ Download sample</b>: <a href="./sexy.csv">CSV</a> / <a href="./sexy.json">JSON</a>
-</p>
-
-<p align="center">
-  <a href="https://unique.domains/technology?utm_source=github&utm_medium=referral&utm_campaign=repo_sexy_oneword_domains&utm_content=top_methodology">Methodology</a> ·
-  <a href="https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_sexy_oneword_domains&utm_content=top_api_docs">API docs</a>
+  · <a href="https://unique.domains/technology?utm_source=github&utm_medium=referral&utm_campaign=repo_sexy_oneword_domains&utm_content=top_methodology"><b>🧪 Methodology</b></a>
+  · <a href="https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_sexy_oneword_domains&utm_content=top_api_docs"><b>🧰 API docs</b></a>
 </p>
 
 ---
 
-> This repo is the sample. The live product keeps the exact search context and adds saved workflows, deeper filters, and richer price, demand, and risk context.
+➡️ **Investors:** [Create a Radar from this .SEXY search](https://unique.domains/domains/tld/sexy?github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_sexy_oneword_domains&utm_content=top_create_radar)  
+➡️ **Founders:** [Start a Project from this .SEXY search](https://unique.domains/domains/tld/sexy?github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_sexy_oneword_domains&utm_content=top_start_project)  
+➡️ **Builders:** [Connect to our API](https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_sexy_oneword_domains&utm_content=top_api_docs)
 
-**Choose your next step**
-- **Investors:** [Create a Radar from this exact .SEXY search](https://unique.domains/domains/tld/sexy?github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_sexy_oneword_domains&utm_content=top_create_radar)
-- **Founders:** [Start a Project from this exact .SEXY search](https://unique.domains/domains/tld/sexy?github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_sexy_oneword_domains&utm_content=top_start_project)
-- **Researchers / builders:** [Download CSV](./sexy.csv) or [Download JSON](./sexy.json)
+---
 
 ## 📦 What this repository contains
 
@@ -56,18 +50,6 @@ This repository is the public extract for Unique Domains' .SEXY one-word domain 
 - `CHANGELOG.md` — latest snapshot metadata
 - `CITATION.cff` — machine-readable dataset citation metadata
 - `LICENSE` — terms for the public extract
-
-## Why leave GitHub?
-
-| GitHub extract          | Live product                                     |
-| ----------------------- | ------------------------------------------------ |
-| 9,736-row public sample | 5,621,997 live domains                           |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
-
-If this sample already feels useful, the live product is where the exact search becomes a workflow.
 
 ## 🧭 Quick start
 
@@ -88,7 +70,7 @@ print(df.head())
 | seventeen.sexy  | available | $2,999    | $2,999        | 84             | 62     | 9      | name.com                           |
 | true.sexy       | resell    | —         | —             | 86             | 52     | 4      | Global Domains International, Inc. |
 | data.sexy       | premium   | $13,000   | $13,000       | 70             | 60     | 4      | namecheap                          |
-| business.sexy   | available | $3,298    | —             | 100            | 54     | 8      | namecheap                          |
+| business.sexy   | available | $3,298    | —             | 100            | 53     | 8      | namecheap                          |
 | love.sexy       | resell    | —         | —             | 86             | 52     | 4      | 1API GmbH                          |
 | free.sexy       | premium   | $12,500   | $12,500       | 88             | 59     | 4      | name.com                           |
 | athletics.sexy  | available | $3,298    | —             | 69             | 52     | 9      | namecheap                          |
@@ -98,7 +80,7 @@ print(df.head())
 | NYC.sexy        | resell    | —         | —             | 82             | 31     | 3      | 1API GmbH                          |
 | good.sexy       | premium   | $12,500   | $12,500       | 82             | 55     | 4      | name.com                           |
 | digital.sexy    | available | $2,999    | $2,999        | 100            | 50     | 7      | name.com                           |
-| marijuana.sexy  | resell    | —         | —             | 67             | 31     | 9      | 1API GmbH                          |
+| marijuana.sexy  | resell    | —         | —             | 67             | 30     | 9      | 1API GmbH                          |
 | zero.sexy       | premium   | $12,500   | $12,500       | 112            | 53     | 4      | name.com                           |
 | genius.sexy     | available | $2,999    | $2,999        | 98             | 47     | 6      | name.com                           |
 | define.sexy     | resell    | —         | —             | 96             | 21     | 6      | Global Domains International, Inc. |
@@ -107,7 +89,17 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 ## 🚀 Next move
 
-You are seeing the public sample. The live product keeps the exact search context and adds saved workflows, deeper filters, and alerting.
+You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
+
+| GitHub extract          | Unique Domains                                   |
+| ----------------------- | ------------------------------------------------ |
+| 9,736-row public sample | 5,621,997 live domains                           |
+| Static CSV / JSON       | live search and daily refresh                    |
+| Basic exported fields   | deeper price, demand, risk, and workflow context |
+| No persistence          | Radar, saved search, and alerts                  |
+| No founder workflow     | Project, shortlist, and next-step workflow       |
+
+If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
 [Create Radar](https://unique.domains/domains/tld/sexy?github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_sexy_oneword_domains&utm_content=top_create_radar) · [Start Project](https://unique.domains/domains/tld/sexy?github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_sexy_oneword_domains&utm_content=top_start_project) · [See pricing](https://unique.domains/pricing?utm_source=github&utm_medium=referral&utm_campaign=repo_sexy_oneword_domains&utm_content=related_pricing)
 
@@ -134,7 +126,7 @@ This repository follows the exact public search represented by the canonical pag
 - Counts, prices, and statuses can change over time.
 - Scores are decision-support signals, not guarantees of resale value.
 - Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- The live product contains deeper filters, monitoring, and decision workflows than this public extract.
+- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -151,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SEXY One-Word Domains*. Version 2026-04-09. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SEXY One-Word Domains*. Version 2026-04-10. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
@@ -166,4 +158,4 @@ GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
 ## 📬 Contact
 
-Questions, corrections, or partnership requests: `hello@unique.domains`
+Questions, corrections, or partnership requests: `gaetan@unique.domains`
