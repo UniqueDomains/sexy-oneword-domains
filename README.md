@@ -69,17 +69,17 @@ print(df.head())
 | power.sexy      | premium   | $13,000   | $13,000       | 98             | 62     | 5      | namecheap                          |
 | seventeen.sexy  | available | $2,999    | $2,999        | 84             | 62     | 9      | name.com                           |
 | true.sexy       | resell    | —         | —             | 86             | 52     | 4      | Global Domains International, Inc. |
-| free.sexy       | premium   | $12,500   | $12,500       | 88             | 59     | 4      | name.com                           |
+| ace.sexy        | premium   | $31,250   | $31,250       | 88             | 57     | 3      | name.com                           |
 | business.sexy   | available | $3,298    | —             | 100            | 53     | 8      | namecheap                          |
 | love.sexy       | resell    | —         | —             | 86             | 51     | 4      | 1API GmbH                          |
-| ace.sexy        | premium   | $31,250   | $31,250       | 88             | 57     | 3      | name.com                           |
+| free.sexy       | premium   | $12,500   | $12,500       | 88             | 57     | 4      | name.com                           |
 | athletics.sexy  | available | $3,298    | —             | 69             | 52     | 9      | namecheap                          |
 | virtual.sexy    | resell    | —         | —             | —              | 39     | 7      | 1API GmbH                          |
 | data.sexy       | premium   | $13,000   | $13,000       | 70             | 56     | 4      | namecheap                          |
-| design.sexy     | available | $2,999    | $2,999        | 108            | 50     | 6      | name.com                           |
+| design.sexy     | available | $2,999    | $2,999        | 108            | 49     | 6      | name.com                           |
 | NYC.sexy        | resell    | —         | —             | 82             | 31     | 3      | 1API GmbH                          |
 | good.sexy       | premium   | $12,500   | $12,500       | 82             | 55     | 4      | name.com                           |
-| digital.sexy    | available | $2,999    | $2,999        | 100            | 50     | 7      | name.com                           |
+| digital.sexy    | available | $2,999    | $2,999        | 100            | 49     | 7      | name.com                           |
 | marijuana.sexy  | resell    | —         | —             | 67             | 30     | 9      | 1API GmbH                          |
 | zero.sexy       | premium   | $12,500   | $12,500       | 112            | 53     | 4      | name.com                           |
 | genius.sexy     | available | $2,999    | $2,999        | 98             | 45     | 6      | name.com                           |
