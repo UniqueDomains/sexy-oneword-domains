@@ -1,22 +1,22 @@
-# Available .SEXY One-Word Domains (9,736)
+# Available .SEXY One-Word Domains (12,276)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C737%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C736%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C276%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .sexy one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .sexy one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **12,276 domains** on the canonical page below.
 
-**Public extract:** 9,737 rows · **Live catalog:** 9,736 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,276 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/sexy`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .SEXY one-word domain 
 
 ### Files
 
-- `sexy.csv` — public CSV extract (9,737 rows)
-- `sexy.json` — public JSON extract (9,737 rows)
+- `sexy.csv` — public CSV extract (1,000 rows)
+- `sexy.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                          |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------------------------- |
-| nationwide.sexy | available | $2,999    | $2,999        | 76             | 66     | 10     | name.com                           |
-| sex.sexy        | resell    | —         | —             | 98             | 59     | 3      | 1API GmbH                          |
-| power.sexy      | premium   | $13,000   | $13,000       | 98             | 62     | 5      | namecheap                          |
-| seventeen.sexy  | available | $2,999    | $2,999        | 84             | 62     | 9      | name.com                           |
-| true.sexy       | resell    | —         | —             | 86             | 52     | 4      | Global Domains International, Inc. |
-| ace.sexy        | premium   | $31,250   | $31,250       | 88             | 57     | 3      | name.com                           |
-| business.sexy   | available | $3,298    | —             | 100            | 53     | 8      | namecheap                          |
-| love.sexy       | resell    | —         | —             | 86             | 51     | 4      | 1API GmbH                          |
-| free.sexy       | premium   | $12,500   | $12,500       | 88             | 57     | 4      | name.com                           |
-| athletics.sexy  | available | $3,298    | —             | 69             | 52     | 9      | namecheap                          |
-| virtual.sexy    | resell    | —         | —             | —              | 39     | 7      | 1API GmbH                          |
-| data.sexy       | premium   | $13,000   | $13,000       | 70             | 56     | 4      | namecheap                          |
-| design.sexy     | available | $2,999    | $2,999        | 108            | 49     | 6      | name.com                           |
-| NYC.sexy        | resell    | —         | —             | 82             | 31     | 3      | 1API GmbH                          |
-| good.sexy       | premium   | $12,500   | $12,500       | 82             | 55     | 4      | name.com                           |
-| digital.sexy    | available | $2,999    | $2,999        | 100            | 49     | 7      | name.com                           |
-| marijuana.sexy  | resell    | —         | —             | 67             | 30     | 9      | 1API GmbH                          |
-| zero.sexy       | premium   | $12,500   | $12,500       | 112            | 53     | 4      | name.com                           |
-| genius.sexy     | available | $2,999    | $2,999        | 98             | 45     | 6      | name.com                           |
-| define.sexy     | resell    | —         | —             | 96             | 21     | 6      | Global Domains International, Inc. |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| insight.sexy      | available | $2,999    | —             | 76             | 69     | 8      | name.com  |
+| Cats.sexy         | resell    | —         | —             | 59             | 33     | 4      | NAMECHEAP |
+| nets.sexy         | premium   | $12,500   | —             | 54             | 81     | 4      | name.com  |
+| makers.sexy       | available | $2,749.99 | $2,749.99     | 62             | 67     | 6      | namesilo  |
+| knows.sexy        | resell    | —         | —             | 48             | 20     | 5      | NAMECHEAP |
+| jobs.sexy         | premium   | $12,500   | —             | 79             | 42     | 4      | name.com  |
+| online.sexy       | available | $2,999    | —             | 70             | 62     | 7      | name.com  |
+| coins.sexy        | premium   | $12,500   | —             | 56             | 41     | 5      | name.com  |
+| RedSox.sexy       | available | $3,298    | —             | 72             | 60     | 7      | namecheap |
+| lets.sexy         | premium   | $12,500   | —             | 77             | 39     | 4      | name.com  |
+| skills.sexy       | available | $2,999    | —             | 58             | 47     | 6      | name.com  |
+| teams.sexy        | premium   | $12,500   | —             | 62             | 32     | 5      | name.com  |
+| whynot.sexy       | available | $2,999    | —             | 74             | 39     | 7      | name.com  |
+| maps.sexy         | premium   | $12,500   | —             | 56             | 31     | 4      | name.com  |
+| neuroscience.sexy | available | $2,999    | —             | 80             | 37     | 12     | name.com  |
+| pages.sexy        | premium   | $12,500   | —             | 52             | 28     | 5      | name.com  |
+| stories.sexy      | available | $2,999    | —             | 58             | 36     | 7      | name.com  |
+| KFC.sexy          | premium   | $35,000   | $35,000       | 74             | 27     | 3      | namecheap |
+| tokens.sexy       | available | $2,749.99 | $2,749.99     | 51             | 36     | 6      | namesilo  |
+| tips.sexy         | premium   | $12,500   | —             | 80             | 26     | 4      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,737-row public sample | 9,736 live domains                               |
+| 1,000-row public sample | 12,276 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SEXY One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SEXY One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
