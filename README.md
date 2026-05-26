@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .sexy one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,712 domains · **Median ask:** $4,510.66 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-26  
 **Canonical page:** `https://unique.domains/domains/tld/sexy`  
 **Best for:** founders, investors, studios
 
@@ -76,13 +76,13 @@ print(df.head())
 | lets.sexy     | premium   | $12,500   | —             | 77             | 39     | 4      | name.com  |
 | skills.sexy   | available | $2,999    | —             | 58             | 47     | 6      | name.com  |
 | teams.sexy    | premium   | $12,500   | —             | 62             | 32     | 5      | name.com  |
-| whynot.sexy   | available | $2,999    | —             | 74             | 39     | 7      | name.com  |
+| whynot.sexy   | available | $2,999    | —             | 74             | 44     | 7      | name.com  |
 | pages.sexy    | premium   | $12,500   | —             | 52             | 28     | 5      | name.com  |
 | tokens.sexy   | available | $2,749.99 | $2,749.99     | 51             | 36     | 6      | namesilo  |
 | KFC.sexy      | premium   | $35,000   | $35,000       | 74             | 27     | 3      | namecheap |
 | aliens.sexy   | available | $2,749.99 | $2,749.99     | 56             | 35     | 6      | namesilo  |
 | sites.sexy    | premium   | $12,500   | —             | 53             | 26     | 5      | name.com  |
-| partners.sexy | available | $2,999    | —             | 61             | 32     | 8      | name.com  |
+| partners.sexy | available | $2,999    | —             | 61             | 31     | 8      | name.com  |
 | Keith.sexy    | premium   | $14,000   | $14,000       | 66             | 25     | 5      | namecheap |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SEXY One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SEXY One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
