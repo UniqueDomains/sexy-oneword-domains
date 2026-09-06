@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .sexy one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 20,872 domains · **Median ask:** $4,659.31 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-09-05
+**Last updated:** 2026-09-06
 **Canonical page:** `https://unique.domains/domains/tld/sexy`
 **Best for:** founders, investors, studios
 
@@ -64,8 +64,6 @@ print(df.head())
 
 | domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
 | ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| just.sexy   | premium   | $12,500   | —             | high           | medium | 4      | name.com  |
-| yes.sexy    | premium   | $31,250   | —             | high           | medium | 3      | name.com  |
 | clx.sexy    | available | $2,749.99 | $2,749.99     | low            | low    | 3      | namesilo  |
 | love.sexy   | resell    | —         | —             | high           | medium | 4      | 1API GmbH |
 | aaa.sexy    | premium   | $32,500   | $32,500       | high           | medium | 3      | namecheap |
@@ -84,6 +82,8 @@ print(df.head())
 | advice.sexy | available | $2,749.99 | $2,749.99     | high           | low    | 6      | namesilo  |
 | dad.sexy    | premium   | $31,250   | —             | high           | low    | 3      | name.com  |
 | aerial.sexy | available | $2,749.99 | $2,749.99     | medium         | low    | 6      | namesilo  |
+| ear.sexy    | premium   | $31,250   | —             | high           | low    | 3      | name.com  |
+| aguish.sexy | available | $2,749.99 | $2,749.99     | low            | low    | 6      | namesilo  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SEXY One-Word Domains*. Version 2026-09-05. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SEXY One-Word Domains*. Version 2026-09-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
